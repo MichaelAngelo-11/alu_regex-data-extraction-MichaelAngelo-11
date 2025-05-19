@@ -23,7 +23,7 @@ Hashtags: #example, #ThisIsAHashtag
 
 ##Sample Output (Console)
 
-Run `python extractors/regex_extractors.py` and see:
+Run `python3 extractors/regex_extractors.py` and see:
 
 Emails: ['user@example.com', 'firstname.lastname@company.co.uk']
 URLs: ['https://www.example.com', 'https://subdomain.example.org/page']
