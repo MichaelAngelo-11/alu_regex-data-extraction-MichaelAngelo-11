@@ -41,7 +41,7 @@ cd alu_regex-data-extraction-MichaelAngelo-11
 ### 2. Run the script
 
 
-python extractors/regex_extractors.py
+python3 extractors/regex_extractors.py
 
 No external libraries required — works with a standard Python installation
 
