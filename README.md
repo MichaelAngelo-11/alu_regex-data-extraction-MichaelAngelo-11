@@ -21,7 +21,7 @@ Times: 14:30, 2:30 PM, 9:45 am, 23:59
 Hashtags: #example, #ThisIsAHashtag
 
 
-##Sample Output (Console)
+## Sample Output (Console)
 
 Run `python3 extractors/regex_extractors.py` and see:
 
