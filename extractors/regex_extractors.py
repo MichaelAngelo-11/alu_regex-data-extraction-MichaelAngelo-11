@@ -26,7 +26,7 @@ def extract_hashtags(text):
     pattern = r"#\w+"
     return re.findall(pattern, text)
 
-# Example runner (for debugging)
+# Example runner
 if __name__ == "__main__":
     with open("data_samples/test_strings.txt", "r") as file:
         data = file.read()
