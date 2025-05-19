@@ -1,0 +1,6 @@
+Emails: user@example.com, firstname.lastname@company.co.uk
+URLs: https://www.example.com, https://subdomain.example.org/page
+Phone Numbers: (123) 456-7890, 123-456-7890, 123.456.7890
+Credit Cards: 1234 5678 9012 3456, 1234-5678-9012-3456
+Times: 14:30, 2:30 PM, 9:45 am, 23:59
+Hashtags: #example, #ThisIsAHashtag
